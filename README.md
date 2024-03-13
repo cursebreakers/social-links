@@ -54,7 +54,7 @@ Users should be able to:
 
 Esau Gavett
 
-- Compnay [Cursebreakers LLC](https://cursebreakers.net/)
+- Company [Cursebreakers LLC](https://cursebreakers.net/)
 - Frontend Mentor - [@cursebreakers](https://www.frontendmentor.io/profile/cursebreakers)
 - Website - [Meditations](https://www.your-site.com)
 
