@@ -39,7 +39,7 @@ body {
 
 #avatar {
     width: 80px;
-    border-radius: 50px;
+    border-radius: 40px;
     margin-bottom: 0;
 }
 
@@ -106,6 +106,16 @@ a {
 
 a:hover {
     color: azure;
+}
+
+::selection {
+    background-color: hsl(75, 94%, 57%); 
+    color: #111111;
+}
+
+::-moz-selection {
+    background-color: hsl(75, 94%, 57%);
+    color: #111111;
 }
 
 
